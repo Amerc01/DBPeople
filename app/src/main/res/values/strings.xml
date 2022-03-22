@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Registrazione</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="repassword">Repassword</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="cf">Cf</string>
+</resources>
